@@ -25,7 +25,7 @@ function Footer () {
 function Title () {
     return(
         <span>
-            Aalam and Alibet
+            Diyes Alibet
         </span>
     )
 }
